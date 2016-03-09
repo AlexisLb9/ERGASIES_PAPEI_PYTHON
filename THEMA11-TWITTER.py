@@ -125,6 +125,8 @@ print "Final Score:",a,"-",b
 
 
 #den katafera na sugkrinw ta K,M,B
+#b=re.findall('[a-zA-Z]+|\\d+', x)
+# me thn parapanw entolh prospathisa na xwrhsw to alfarithmitko alla den anagnwrizetai i telia me apotelesma an eixa ton arithmo 14.9 kai 149 na emfanize oti itan isoi...
 
 
 
